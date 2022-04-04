@@ -1,1 +1,1 @@
-absolute path name of the current working directory
+My 0x02-shell_redirections Readme file
